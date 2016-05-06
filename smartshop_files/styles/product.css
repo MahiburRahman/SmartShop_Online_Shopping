@@ -1,0 +1,358 @@
+ body {
+     #background-color: #3F5C9A;
+	 background: 	url("../images/back2.jpg");
+     margin-left: 10%;
+     margin-right: 10%;
+	 
+     border: thin solid #310906;
+	  border-width: 2px;
+     padding: 10px 10px 10px 10px;
+	 font-family:      Georgia, "Times New Roman", Times, serif;
+     #font-family: Cursive,Comic Sans;
+	 font-size: medium;
+	 
+    } 
+	#.fix{overflow:hidden}
+	#.fix{overflow:hidden}
+	
+h1, h2 {
+  color:               #310906;
+}
+#cscroll{
+    margin-top: 10px;
+	background: 	url("../images/woods.jpg");
+    border-top: solid #310906;
+	border-bottom:  solid #310906;
+	#background-color: #C3C3C3;
+	color:#FBFCFE;
+	font-size: 150%;
+	
+	padding: 10px;
+	border-width: 8px
+	
+}
+
+ul{ list-style-type: none; }
+
+
+
+
+
+
+
+.button
+{
+display:block;
+background: 	url("../images/woods.jpg");
+#background: #FFFFFF;
+color: #efe5d0;
+border: #000000;
+padding:5px 20px;
+-moz-border-radius:2px;
+border-radius:2px;
+cursor:pointer;
+font-family:      Georgia, "Times New Roman", Times, serif;
+font-size: 100%;
+margin-left: 47%;
+}
+
+input:hover {
+	border: 2px solid #222;
+    background-color: #EEE;
+}
+
+.button:hover
+{
+background: #310906;
+color:#FFFFFF;
+
+}
+
+
+
+#smartlogin{
+
+  background: 	url("../images/woods.jpg");
+  margin-top: 10px;
+  #background-color: #C3C3C3;
+  border:              thin solid #310906;
+  padding: 10px;
+  text-align: center;
+  font-size: 85%;
+  
+ 
+
+}
+
+  
+
+#menu{
+    background: 	url("../images/woods.jpg");
+	#background-color: #C3C3C3;
+	border-top: solid #310906;
+	border-bottom:  solid #310906;
+	border-width:8px;
+	word-spacing:120px;
+	#color:            #efe5d0;
+    text-align:       center;
+	padding:          7px;
+	font-family: "Century Gothic";
+	margin:           9px 0px 0px 0px;
+	font-size:        170%;
+  
+}
+#head{
+	border:              thin solid #310906;
+	background: 	url("../images/woods.jpg");
+	#background-color: #C3C3C3;
+	padding: 20px;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+	font-size: small;
+	line-height:1.56;
+	margin-top: 10px ;
+	margin-bottom:10px;
+	
+}
+
+#item1 {
+  background: 	url("../images/woods.jpg");
+  border:              thin solid #310906;
+  width:               490px;
+  padding:             0px 20px 6px 0px;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+  line-height:1.56;
+  text-align:          center;
+  float: left;
+  border-radius: 15px;
+  }
+  
+  
+
+#item2 {
+background: 	url("../images/woods.jpg");
+  border:              thin solid #310906;
+  width:               35%;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+	font-size:			small;
+  padding:             1px 70px 6px 77px;
+  margin-left: 50% ;
+  text-align:          center;
+ 
+  line-height:         1.56;
+  border-radius: 15px;
+  position: static;
+  resize: false;
+}
+#item3 {
+background: 	url("../images/woods.jpg");
+  #background-color: #C3C3C3;
+  margin-top: 10px;
+  border:              thin solid #310906;
+  position:absolute;
+  width:               490px;
+ # padding:             10px;
+ padding:             0px 20px 6px 0px;
+  #background-repeat:   repeat-x;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+  line-height:1.56;
+  text-align:          center;
+  float: left;
+  border-radius: 15px;
+  #margin-right: 40%;
+  }
+  
+  
+
+#item4 {
+background: 	url("../images/woods.jpg");
+  #background-color: #C3C3C3;
+  margin-top:10px;
+  border:              thin solid #310906;
+  width:               35%;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+	font-size:			small;
+  padding:             1px 70px 6px 77px;
+ # margin-right: 50px;
+  margin-left: 50% ;
+  text-align:          center;
+  #background-image:    url("../images/wood2.jpg");
+ # background-repeat:   repeat-x;
+ 
+  line-height:         1.56;
+  border-radius: 15px;
+  position: static;
+  resize: false;
+}
+
+
+
+
+
+#item5 {
+background: 	url("../images/woods.jpg");
+  #background-color: #C3C3C3;
+  margin-top: 10px;
+  border:              thin solid #310906;
+  position:absolute;
+  width:               490px;
+ # padding:             10px;
+ padding:             0px 20px 6px 0px;
+  #background-repeat:   repeat-x;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+  line-height:1.56;
+  text-align:          center;
+  float: left;
+  border-radius: 15px;
+  #margin-right: 40%;
+  }
+  
+  
+
+#item6 {
+background: 	url("../images/woods.jpg");
+  #background-color: #C3C3C3;
+  margin-top:10px;
+  border:              thin solid #310906;
+  width:               35%;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+	font-size:			small;
+  padding:             1px 70px 6px 77px;
+ # margin-right: 50px;
+  margin-left: 50% ;
+  text-align:          center;
+  #background-image:    url("../images/wood2.jpg");
+ # background-repeat:   repeat-x;
+ 
+  line-height:         1.56;
+  border-radius: 15px;
+  position: static;
+  resize: false;
+}
+
+
+#footer {
+  border: thin solid #310906;
+  background: 	url("../images/woods.jpg");
+  
+  #background-color: #C3C3C3;
+  color:            #efe5d0;
+  text-align:       center;
+  padding:          15px;
+  margin:           10px 0px 0px 0px;
+  font-size:        90%;
+  #clear: both;
+  border-radius: 15px;
+  }
+
+
+a {text-decoration:none;}
+
+#menu a:link {
+  color:               #efe5d0;
+}
+
+#menu a:hover {
+  background:          #efe5d0;
+  color:               #000000;
+  border-radius: 9px;
+}
+
+
+#menu a:visited {
+  color:               #000000;
+}
+
+
+
+#item2 a:link {
+  color:               #007e7e;
+}
+
+#item2 a:visited {
+  color:               #333333;
+}
+
+#item4 a:link {
+  color:               #007e7e;
+}
+
+#item4 a:visited {
+  color:               #333333;
+}
+
+#item2 a:hover {
+  background:          #f88396;
+  color:               #0d5353;
+}
+
+
+#award {
+  position:         absolute;
+  top:              30px;
+  left:             500px;
+  z-index:          99;
+}
+
+#awardd {
+  position:         absolute;
+  top:              30px;
+  right:             550px;
+  z-index:          99;
+}
+
+#coupon {
+  position:         fixed;
+  top:              300px;
+  left:             -90px;
+}
+
+#coupon img {
+  border:           none;
+}
+
+#coupon a:link {
+  border:           none;
+}
+
+#coupon a:visited {
+  border:           none;
+}
+
+
+
+
+
+.cbutton
+{
+display:block;
+background: #FFFFFF;
+color: #FFFFFF;
+border: #000000;
+padding:5px 20px;
+-moz-border-radius:2px;
+border-radius:2px;
+cursor:pointer;
+font-family:      Georgia, "Times New Roman", Times, serif;
+font-size: 120%;
+}
+
+
+
+
+.cbutton:hover
+{
+background: #FFFFFF;
+color:#efe5d0;
+
+}
+
+
+#main
+{
+background: 	url("../images/back2.jpg");;
+padding: 15px;
+margin-top: 10px;
+}

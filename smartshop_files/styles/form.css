@@ -1,0 +1,80 @@
+ body {
+     #background-color: #b5a789     #d2b48c;
+	 background: 	url("../images/back2.jpg");
+     margin-left: 10%;
+     margin-right: 10%;
+     border: thin solid #310906;
+     padding: 10px 10px 30px 10px;
+	 font-family:      Georgia, "Times New Roman", Times, serif;
+     #font-family: Cursive,Comic Sans;
+	 font-size: medium;
+	 #color: #675c47;
+    }
+
+.fbutton
+{
+display:block;
+background: #675c47;
+color: #efe5d0;
+border:#efe5d0;
+padding:5px 20px;
+-moz-border-radius:2px;
+border-radius:2px;
+cursor:pointer;
+font-family:      Georgia, "Times New Roman", Times, serif;
+font-size: 100%;
+}	
+
+.fbutton:hover
+{
+background: #675c47;
+color:#efe5d0;
+
+}
+
+
+
+input:hover {
+	border: 2px solid #222;
+    background-color: #EEE;
+}
+
+
+table {
+  margin-left: 13%;
+     margin-right: 6%;
+  border: none;
+  padding: 50px 50px 50px 50px;
+  background:url("../images/back2.jpg");
+  #background-color: #e1ceb8;
+}
+
+th {
+  text-align: right;
+  vertical-align: top;
+  padding-right: 10px;
+  padding-top: 2px;
+}
+
+td {
+  vertical-align: top;
+  padding-bottom: 15px;
+}
+
+table table {
+ border: none;
+  padding: 0px;
+  
+}
+
+table table td {
+  text-align: right;
+  padding-bottom: 0px;
+}
+
+#ipic{
+  position:         absolute;
+  top:              374px;
+  right:             435px;
+  z-index:          99;
+}

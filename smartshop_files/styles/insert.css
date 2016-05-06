@@ -1,0 +1,17 @@
+body {
+  background: 	url("../images/back2.jpg") top left;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+   margin-left: 10%;
+     margin-right: 10%;
+	font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+     border: thin solid #007e7e;
+     padding: 10px 10px 30px 10px;
+}
+#head { 
+ border: thin solid #7e7e7e;
+  padding: 50px;
+  background-color: #e1ceb;
+  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size: small;
+  }
